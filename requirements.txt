@@ -1,0 +1,4 @@
+Django>=5.1.2,<6.0
+djangorestframework
+dj-database-url
+psycopg2
